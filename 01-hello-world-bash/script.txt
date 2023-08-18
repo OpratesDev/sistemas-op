@@ -1,0 +1,5 @@
+#hello world
+
+nome="Vagner"
+
+echo "ola, $nome"
